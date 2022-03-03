@@ -1,7 +1,5 @@
 # ARA (Autonomous Robot for Autism)
 
-ARA (Autonomous Robot for Autism)
-
 ## Summary
 
 Husarion CORE2 - ROS w/Raspberry Pi 3 B+ & Ubuntu 16.04
