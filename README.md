@@ -1,15 +1,20 @@
-# Proyect Name
+
+<!-- This is the markdown template for the final project of the Building AI course, 
+created by Reaktor Innovations and University of Helsinki. 
+Copy the template, paste it to your GitHub README and edit! -->
+
+# Project Title
+
 ARA (Autonomous Robot for Autism)
 
-# General Info
-
-ARA is intended to serve as a therapeutic solution for children in the Autism Spectrum Disorder. ARA implements an emotion recognition, face and hand tracking algorithm called Autism Learning through Vision (ALV) which is a cascade classifier + convNN classifier based, which aims to work toghether with an OAC (Output Adaptive Controller) implementing a High Order Sliding Mode (HOSM) observer to control ARA's trajectories and interactions with children.
-
-# Technologies
+## Summary
 
 Husarion CORE2 - ROS w/Raspberry Pi 3 B+ & Ubuntu 16.04
 
 Python 2.7
+
+
+## How is it used?
 
 # Installation Requirements
 
@@ -48,11 +53,29 @@ Install the following packages on the Husarion CORE2 - ROS board:
     
     #deactivate tensorflow virtualenv
     deactivate
+
 #Try
 install tensorflow solving the swap problem
 https://gist.github.com/EKami/9869ae6347f68c592c5b5cd181a3b205
 problem solution with bazel
 https://github.com/bazelbuild/bazel/commit/cc8e7166e29fee39d44e578cf98a06486084a6bd
+
+
+## Data sources and AI methods
+Random real face image files obtained from specific sources
+
+## Challenges
+
+FER
+
+## What next?
+
+Implementation
+
+
+## Acknowledgments
+
+DNA
 
 # Setup
 
